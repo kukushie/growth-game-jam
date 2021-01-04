@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-16"?>
+<StageData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <name>Test Stage</name>
+  <growthPerSegment>1</growthPerSegment>
+  <honeycomb>
+    <strips>
+      <StripData>
+        <hexes>
+          <HexData>
+            <entityType>Item</entityType>
+            <entityData>1</entityData>
+          </HexData>
+          <HexData>
+            <entityType>Obstacle</entityType>
+            <entityData>0</entityData>
+          </HexData>
+        </hexes>
+      </StripData>
+      <StripData>
+        <hexes>
+          <HexData>
+            <entityType>Vacant</entityType>
+            <entityData>0</entityData>
+          </HexData>
+          <HexData>
+            <entityType>Player</entityType>
+            <entityData>0</entityData>
+          </HexData>
+          <HexData>
+            <entityType>Vacant</entityType>
+            <entityData>0</entityData>
+          </HexData>
+        </hexes>
+      </StripData>
+      <StripData>
+        <hexes>
+          <HexData>
+            <entityType>Item</entityType>
+            <entityData>-3</entityData>
+          </HexData>
+          <HexData>
+            <entityType>Item</entityType>
+            <entityData>1</entityData>
+          </HexData>
+        </hexes>
+      </StripData>
+    </strips>
+  </honeycomb>
+</StageData>
